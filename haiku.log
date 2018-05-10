@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.4.18)  10 MAY 2018 18:22
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.4.18)  10 MAY 2018 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,7 +184,12 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
- (./haiku.toc)
+ (./haiku.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `haiku.toc'.
 
@@ -246,12 +251,12 @@ Missing character: There is no ^^b5 in font cmr10!
 
 ] (./haiku.aux) ) 
 Here is how much of TeX's memory you used:
- 1119 strings out of 493640
- 13434 string characters out of 6151719
+ 1123 strings out of 493640
+ 13483 string characters out of 6151719
  162809 words of memory out of 5000000
- 4729 multiletter control sequences out of 15000+600000
- 11743 words of font info for 48 fonts, out of 8000000 for 9000
+ 4732 multiletter control sequences out of 15000+600000
+ 12051 words of font info for 49 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  25i,8n,42p,200b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on haiku.dvi (138 pages, 227120 bytes).
+Output written on haiku.dvi (138 pages, 227596 bytes).
