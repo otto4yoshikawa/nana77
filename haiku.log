@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.4.18)  15 MAY 2018 14:26
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.4.18)  9 JAN 2019 10:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -184,7 +184,12 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
- (./haiku.toc)
+ (./haiku.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `haiku.toc'.
 
@@ -232,26 +237,19 @@ Missing character: There is no ^^b5 in font cmr10!
 
 ]
 第 \rensuji {4} 章
-(./allx.tex [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123]
-[124] [125]) [126] [127
+[102] [103] (./atogaki.tex) [104
 
-]
-第 \rensuji {5} 章
-[128] [129]
-第 \rensuji {6} 章
-(./ryakureki.tex [130
+] [105
 
-] [131] [132]) [133] (./atogaki.tex) [134
-
-] (./haiku.aux) ) 
+] (./atogaki2.tex [106]) [107]
+(./haiku.aux) ) 
 Here is how much of TeX's memory you used:
- 1125 strings out of 493640
- 13502 string characters out of 6151719
- 162809 words of memory out of 5000000
- 4729 multiletter control sequences out of 15000+600000
- 11743 words of font info for 48 fonts, out of 8000000 for 9000
+ 1126 strings out of 493640
+ 13526 string characters out of 6151719
+ 85914 words of memory out of 5000000
+ 4732 multiletter control sequences out of 15000+600000
+ 12051 words of font info for 49 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,8n,42p,200b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,8n,42p,200b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on haiku.dvi (134 pages, 233220 bytes).
+Output written on haiku.dvi (107 pages, 169144 bytes).
